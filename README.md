@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <img height="205em" alt="CrystopherCarpenter stats" src="https://github-readme-stats.vercel.app/api?username=CrystopherCarpenter&show_icons=true&hide_border=true" />
+  <img height="205em" alt="CrystopherCarpenter stats" src="https://github-readme-stats.vercel.app/api?username=CrystopherCarpenter&show_icons=true&theme=github_dark&hide_border=true" />
 
-  <img height="205em" alt="CrystopherCarpenter Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystopherCarpenter" />
+  <img height="205em" alt="CrystopherCarpenter Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystopherCarpenter&show_icons=true&theme=github_dark&hide_border=true" />
 </div>
