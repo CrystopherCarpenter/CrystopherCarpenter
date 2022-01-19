@@ -1,10 +1,10 @@
 ### Hello World! I´m Crystopher 👋
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=CrystopherCarpenter-dev&color=blue" alt="Profile views">
 
 <a href="https://wakatime.com/@139a4c52-8b15-48ba-8ed1-a3e108ef6a3f">
-  <img src="https://wakatime.com/badge/user/139a4c52-8b15-48ba-8ed1-a3e108ef6a3f.svg" alt="Total time coded since Oct 7 2021" />
+  <img src="https://wakatime.com/badge/user/139a4c52-8b15-48ba-8ed1-a3e108ef6a3f.svg" alt="Total time coded since Aug 1 2021" />
 </a>
 </p>
 
