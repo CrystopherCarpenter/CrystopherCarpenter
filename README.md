@@ -3,9 +3,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=CrystopherCarpenter-dev&color=blue" alt="Profile views">
 
-<a href="https://wakatime.com/@139a4c52-8b15-48ba-8ed1-a3e108ef6a3f">
-  <img src="https://wakatime.com/badge/user/139a4c52-8b15-48ba-8ed1-a3e108ef6a3f.svg" alt="Total time coded since Aug 1 2021" />
-</a>
+<a href="https://wakatime.com/@e1fd548b-4290-45a2-8ed2-6777f4cd2281"><img src="https://wakatime.com/badge/user/e1fd548b-4290-45a2-8ed2-6777f4cd2281.svg" alt="Total time coded since Oct 6 2021" /></a>
 </p>
 
 <div align="center">
