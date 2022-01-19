@@ -13,18 +13,17 @@
 
   <img height="205em" alt="CrystopherCarpenter Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystopherCarpenter" />
 </div>
+<br/>
+<br/>
+<ul>
+  <li>I’m a front-end web developer and courrently a full stack in training. </li>
+  <li>An aficionado of logic games and problem solving. </li>
+  <li>As a practical and attentive person, I take great care of the quality of my code, aways trying to make it clean and understandable.  </li>
+  <li>Ready to collaborate with anyone and get ideas off the ground.  </li>
+  <li>Talk with me, ask anything! </li>
+</ul>  
 
-I’m a front-end web developer and courrently a full stack in training. 
-
-An aficionado of logic games and problem solving. 
-
-As a practical and attentive person, I take great care of the quality of my code, aways trying to make it clean and understandable.  
-
-Ready to collaborate with anyone and get ideas off the ground.  
-
-Talk with me, ask anything! 
-
-Technologies
+## Languages and tools
 <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" /></a>
