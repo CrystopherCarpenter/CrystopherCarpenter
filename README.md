@@ -15,13 +15,24 @@
 
 ### Languages and tools
 
-  <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" /></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" /></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />  </a>
-  <a href="https://reactjs.org/" title="React"><img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" /></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" /></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" /></a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" /> </a>
+  <div align="center">
+<a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img src="https://img.shields.io/badge/-HTML-&?style=for-the-badge&logo=html5&color=black" alt="HTML logo" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img src="https://img.shields.io/badge/-CSS-&?style=for-the-badge&logo=css3&color=black" alt="CSS logo" /></a>
+<a href="https://www.javascript.com/" title="Javascript"><img src="https://img.shields.io/badge/-Javascript-&?style=for-the-badge&logo=javascript&color=black" alt="Javascript logo" /></a>
+<a href="https://reactjs.org/" title="React"><img src="https://img.shields.io/badge/-react-&?style=for-the-badge&logo=react&color=black" alt="React logo" /></a>
+<a href="https://nodejs.org/en/" title="NodeJS"><img src="https://img.shields.io/badge/-NodeJS-&?style=for-the-badge&logo=nodedotjs&color=black" alt="Node logo" /></a>
+<a href="https://expressjs.com/" title="Express"><img src="https://img.shields.io/badge/-Express-&?style=for-the-badge&logo=express&color=black" alt="Express logo" /></a>
+<a href="https://www.mongodb.com/" title="Mongo"><img src="https://img.shields.io/badge/-MongoDB-&?style=for-the-badge&logo=mongodb&color=black" alt="Mongo logo" /></a>
+<a href="https://www.postgresql.org/" title="Postgres"><img src="https://img.shields.io/badge/-PostgreSQL-&?style=for-the-badge&logo=postgresql&color=black" alt="Postgres logo" /></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="React logo" /></a>
+<a href="https://jestjs.io/" title="Jest"><img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" alt="Jest logo" /></a>
+<a href="https://vercel.com/" title="Vercel"><img src="https://img.shields.io/badge/-Vercel-&?style=for-the-badge&logo=vercel&color=black" alt="Vercel logo" /></a>
+<a href="https://www.heroku.com/" title="Heroku"><img src="https://img.shields.io/badge/-Heroku-&?style=for-the-badge&logo=heroku&color=black&logoColor=79589F" alt="Heroku logo" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/-Git-&?style=for-the-badge&logo=git&color=black" alt="Git logo" /></a>
+<a href="https://github.com/" title="Github"><img src="https://img.shields.io/badge/-Github-&?style=for-the-badge&logo=github&color=black" alt="Github logo" /></a>
+  <a href="https://code.visualstudio.com/" title="VSCode"><img src="https://img.shields.io/badge/-VSCode-&?style=for-the-badge&logo=visualstudiocode&color=black&logoColor=0076C6" alt="Visual studio code logo" /></a>
+
+</div>
 
 ### Connect with me!
 
