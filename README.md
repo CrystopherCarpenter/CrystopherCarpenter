@@ -29,11 +29,16 @@
 <a href="https://expressjs.com/" title="Express"><img src="https://img.shields.io/badge/-Express-&?style=for-the-badge&logo=express&color=black" alt="Express logo" /></a>
   <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="React logo" /></a>
 <a href="https://jestjs.io/" title="Jest"><img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" alt="Jest logo" /></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="https://img.shields.io/badge/-graphql-&?style=for-the-badge&logo=graphql&color=black" alt="GraphQL logo" /></a>
+<a href="https://www.apollographql.com/" title="Apollo"><img src="https://img.shields.io/badge/-apollo graphql-&?style=for-the-badge&logo=apollographql&color=black" alt="Apollo logo" /></a>
+
   
   ##### Database</br>
 <a href="https://www.mongodb.com/" title="Mongo"><img src="https://img.shields.io/badge/-MongoDB-&?style=for-the-badge&logo=mongodb&color=black" alt="Mongo logo" /></a>
 <a href="https://www.postgresql.org/" title="Postgres"><img src="https://img.shields.io/badge/-PostgreSQL-&?style=for-the-badge&logo=postgresql&color=black" alt="Postgres logo" /></a>
   <a href="https://redis.io/" title="Redis"><img src="https://img.shields.io/badge/-redis-&?style=for-the-badge&logo=redis&color=black" alt="Redis logo" /></a>
+  <a href="https://www.prisma.io/" title="Prisma"><img src="https://img.shields.io/badge/-prisma-&?style=for-the-badge&logo=prisma&color=black" alt="Prisma logo" /></a>
+
 
   ##### Deploy</br>
 <a href="https://vercel.com/" title="Vercel"><img src="https://img.shields.io/badge/-Vercel-&?style=for-the-badge&logo=vercel&color=black" alt="Vercel logo" /></a>
