@@ -19,7 +19,7 @@
   
  ##### Front-end
 <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"><img src="https://img.shields.io/badge/-HTML-&?style=for-the-badge&logo=html5&color=black" alt="HTML logo" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img src="https://img.shields.io/badge/-CSS-&?style=for-the-badge&logo=css3&color=black" alt="CSS logo" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img src="https://img.shields.io/badge/-CSS-&?style=for-the-badge&logo=css3&color=black&logoColor=blue" alt="CSS logo" /></a>
 <a href="https://www.javascript.com/" title="Javascript"><img src="https://img.shields.io/badge/-Javascript-&?style=for-the-badge&logo=javascript&color=black" alt="Javascript logo" /></a>
 <a href="https://reactjs.org/" title="React"><img src="https://img.shields.io/badge/-react-&?style=for-the-badge&logo=react&color=black" alt="React logo" /></a>
   <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="React logo" /></a>
@@ -31,9 +31,9 @@
 <a href="https://spring.io/" title="Springboot"><img src="https://img.shields.io/badge/-Spring_Boot-&?style=for-the-badge&logo=spring-boot&color=black" alt="Springboot" /></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://img.shields.io/badge/-Express-&?style=for-the-badge&logo=express&color=black" alt="Express logo" /></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="React logo" /></a>
-<a href="https://jestjs.io/" title="Jest"><img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" alt="Jest logo" /></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="https://img.shields.io/badge/-graphql-&?style=for-the-badge&logo=graphql&color=black" alt="GraphQL logo" /></a>
-<a href="https://www.apollographql.com/" title="Apollo"><img src="https://img.shields.io/badge/-apollo graphql-&?style=for-the-badge&logo=apollographql&color=black" alt="Apollo logo" /></a>
+<a href="https://jestjs.io/" title="Jest"><img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black&logoColor=red" alt="Jest logo" /></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="https://img.shields.io/badge/-graphql-&?style=for-the-badge&logo=graphql&color=black&logoColor=magenta" alt="GraphQL logo" /></a>
+<a href="https://www.apollographql.com/" title="Apollo"><img src="https://img.shields.io/badge/-apollo graphql-&?style=for-the-badge&logo=apollographql&color=black&logoColor=blue" alt="Apollo logo" /></a>
 
   
   ##### Database</br>
