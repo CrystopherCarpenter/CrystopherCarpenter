@@ -6,7 +6,7 @@
 </p>
 
 <ul>
-  <li>I’m a full stack developer. </li>
+  <li>I’m a backend developer. </li>
   <li>An aficionado of logic games and problem solving. </li>
   <li>As a practical and attentive person, I take great care of the quality of my code, always trying to make it clean and understandable.  </li>
   <li>Ready to collaborate with anyone and get ideas off the ground.  </li>
